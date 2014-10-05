@@ -2,9 +2,7 @@ Locator
 =======
 
 Location broadcaster for RF transmitter.
-
 Author: Heikki Juva - OH1EMX, heikki@juva.lu
-
 Version: 0.5 - 03.10.2014
 
 Hardware: Arduino and DRA889TX or similar.
